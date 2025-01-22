@@ -5,7 +5,7 @@
 ---
 
 ## Demo Notification
-<img style="width: 500px" src="https://github.com/WeansHHN/iGG-By-HHNiOS/blob/main/photo_2023-05-16_15-32-42.jpg?raw=true">
+<img style="width: 500px" src="https://github.com/WeansHHN/CustomNotificationView/blob/main/video_2025-01-22_23-27-59.gif?raw=true">
 
 ## Tính năng nổi bật
 
